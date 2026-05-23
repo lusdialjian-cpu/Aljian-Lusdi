@@ -8,9 +8,11 @@
 |------|------------|
 | student | Engineering student|
 
-**'skills'**
+**'Hobby'**
+cooking 
+playing online games 🎮
+painting 🎨 
 
-playing online games
 
 
 
