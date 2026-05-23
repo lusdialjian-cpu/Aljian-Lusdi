@@ -6,7 +6,7 @@
 
 Playing online games and coding are my main things right now. I’m based in *Pathmosville, Tagburos, Puerto Princesa City*.
 
-## skills
+## SKILLS 
 
 | PCB Design: Beginner level, just starting to figure it out |
 
