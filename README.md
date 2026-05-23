@@ -20,17 +20,17 @@ Playing online games and coding are my main things right now. I’m based in *Pa
 |------|------------|
 | student | Engineering student|
 | FAMILY |
-|------------------|
+|-----------------|
 | We are 5 siblings|
 | 4 boys |
 | 1 girl |
 
 ## HOBBY
 
-cooking 
-playing online games 🎮
-painting 🎨 
-playing basketball 
+| cooking | 
+| playing online games 🎮 |
+| painting 🎨 |
+| playing basketball 🏀|
 
 ## MY FAVORITE FOOD 
 
