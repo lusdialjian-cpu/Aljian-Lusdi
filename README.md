@@ -45,6 +45,8 @@ playing basketball
 - Water 
 - Royal
 
+THANKS FOR VISITING MY PORTFOLIO 
+
 
 
 
